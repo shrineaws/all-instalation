@@ -80,4 +80,7 @@ systemctl start sonarqube.service
   
   
   
-
+systemctl daemon-reloadsystemctl enable sonarqube.service systemctl start sonarqube.service
+ 
+ 
+ netstat -tulpena | grep 9000
