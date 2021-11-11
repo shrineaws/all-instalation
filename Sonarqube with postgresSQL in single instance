@@ -1,2 +1,203 @@
 https://www.youtube.com/watch?v=eKdHTADjQEY
 https://www.coachdevops.com/2021/01/install-sonarqube-8-on-ubuntu-how-to.html
+
+
+
+===========================================
+
+Setting up ELK Stack (Elastic Stack) on AWS EC2 instance
+
+https://acpasavarjana.medium.com/setting-up-elk-stack-elastic-stack-on-aws-ec2-instance-fc2e1b006fe3
+
+==========================================================
+
+Gitlab server configuration
+https://www.youtube.com/watch?v=RjYIcLRugUk
+
+https://docs.rackspace.com/support/how-to/install-gitlab-on-ubuntu-18-04/
+
+root@ip-10-50-1-254:/home/ubuntu: gitlab-rake gitlab:env:info
+
+System information and 
+GitLab information
+
+==============================================
+
+aws eks update-kubeconfig --name example
+
+====================================
+
+	Gitlab runner-1
+
+
+sudo gitlab-runner register \
+  --non-interactive \
+  --url "http://ec2-54-227-74-253.compute-1.amazonaws.com" \
+  --registration-token "72X3f67boUFszytnR3oU" \
+  --description "my-runner" \
+  --executor "docker" \
+  --docker-image ubuntu:latest
+
+===================================
+
+
+Gitlab to aws elasticbeanstalk deployment
+
+https://gitlab.com/ivsonv/deploy-netcore-5.0-ebs-aws/-/blob/master/.gitlab-ci.yml
+https://www.youtube.com/watch?v=ygKdGFieaXg
+
+https://gitlab.com/vdespa/www.learndevops.link/-/tree/master
+
+https://gitlab.com/vdespa/www.learndevops.link/-/blob/master/.gitlab-ci.yml
+
+AWS S3 static website hosting + GitLab CI pipeline
+
+
+
+
+Final Project DevOps - GitLab Server & SonarQube integration Demo - Johns Hopkins University     gitlab with sonarqube
+
+==============================
+
+Sonarqube with postgresSQL in AWS
+
+
+psql  --host=mydbinstance.cydf0w17gsjx.us-west-2.rds.amazonaws.com:5432  --port=5432  --username=postgres  --password 
+
+
+/usr/lib/jvm/java-11-openjdk-amd64/bin/java
+
+
+postgresql@9.5-main
+
+sudo passwd postgresql@9.5-main
+http://34.210.9.102:9000
+
+===================================
+
+Sonarqube with postgresSQL in single instance
+
+https://www.youtube.com/watch?v=eKdHTADjQEY
+
+https://www.coachdevops.com/2021/01/install-sonarqube-8-on-ubuntu-how-to.html
+
+====================================
+
+Gitlab Videos
+
+https://www.youtube.com/watch?v=-d81YCn0_OM
+
+
+=========================================
+
+Gitlab server configuration
+
+https://www.youtube.com/watch?v=RjYIcLRugUk
+
+https://docs.rackspace.com/support/how-to/install-gitlab-on-ubuntu-18-04/
+
+==============================================
+
+AWS Elasticsearch Configuration
+
+Ingest Streaming Data into ElasticSearch from S3 | Trigger event notification to Lambda Serverless
+
+
+
+https://github.com/miztiik/serverless-s3-to-elasticsearch-ingester
+
+https://stackoverflow.com/questions/41177965/aws-lambdathe-provided-execution-role-does-not-have-permissions-to-call-describ
+
+https://opensearch.org/docs/latest/security-plugin/access-control/default-action-groups/#index-level
+
+===================================================
+
+How to connect via SSH from AWS CloudShell to EC2 instance
+
+	1. Enter your CloudShell from your browser, just click on the CloudShell icon in the AWS console navigation bar.
+	2. Get your Cloudshell instance IP: launch curl ifconfig.co
+	3. Create or update an Inbound rule for your EC2 instance security group that looks like
+		○ Type: SSH
+		○ Origin: The output from the command at point 1. Something like 3.4.5.6/32.
+		○ As a description I am adding the following: My IP on AWS Cloud Shell (launch curl ifconfig.co)
+	4. Put your SSH key to some private bucket, then use aws s3 cp to copy it to your CloudShell instance.
+	5. Follow the instructions you get when you click on the “Connect” button in your EC2 instance dashboard. For instance you need to run (only once) a chmod 400 on you SSH key, and you also need to know th IP of your EC2 instance.
+
+Aws cloudshell through instance connecting
+
+aws s3 cp s3://hux-devops.com/hux-ssh-keypeir/Hux-Key.pem hux-keypeir
+
+
+Chmod 400 Hux-Key.pem
+
+ssh -i "Hux-Key.pem" ubuntu@ec2-54-186-159-188.us-west-2.compute.amazonaws.com
+
+=================================================
+
+Cloudfront to Private s3 bucket with static website
+
+Deploy static website to AWS with HTTPS - S3, Route 53, CloudFront, Certificate Manager
+
+
+
+AWS Knowledge Center Videos: How Do I Process Amazon CloudFront logs with AWS Elasticsearch Service?
+
+
+
+
+
+================================================
+
+Logs sendig through logstash to Elasticsearch
+
+https://blog.ruanbekker.com/blog/2019/06/04/setup-a-logstash-server-for-amazon-elasticsearch-service-and-auth-with-iam/
+
+https://github.com/drumadrian/Install_Logstash_S3_input_plugin_on_AWS
+
+
+Accessing a Kibana dashboard within a VPC enabled elasticsearch domain
+
+
+
+
+This is very useful for kibana dashboard
+
+https://medium.com/@jeremydaly/how-to-access-your-aws-vpc-based-elasticsearch-cluster-locally-c63cff2400bf
+
+
+cd ~/.ssh/
+
+cd /Home
+
+cd /Users/ysuresh/Downloads/
+
+cd Downloads/
+
+cp Hux-Key.pem /var/root/.ssh
+
+vim config
+
+
+ssh -N estunnel
+
+https://www.jeremydaly.com/access-aws-vpc-based-elasticsearch-cluster-locally/
+
+https://localhost:9200
+
+https://localhost:9200/_plugin/kibana/app/management/kibana/indexPatterns
+
+ES Username and password should provide here & kibana also same Credentionals
+=================================
+
+
+curl "http://localhost:9200
+
+
+========================
+AWS Terraform 
+
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+
+==============================
+
+
