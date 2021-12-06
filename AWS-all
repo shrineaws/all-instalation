@@ -57,3 +57,5 @@ https://medium.com/runatlantis/hosting-our-static-site-over-ssl-with-s3-acm-clou
 
 
 https://github.com/aws-samples/amazon-cloudfront-secure-static-site. (cloudformation template for aws s3 static website and cloudfront and acm and route 53)
+https://github.com/awslabs/aws-cloudformation-templates
+
