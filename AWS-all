@@ -4,5 +4,54 @@ https://aws.amazon.com/solutions/implementations/centralized-logging/. (ELK for 
 
 https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-cf.html (AWS AMI Vulnerabulitis Checking for cloudformation Template)
 
+https://github.com/dyordsabuzo/pablosspot  ( aws terraform code for all resources )
+
+https://github.com/aws-samples/aws-codedeploy-appspec-assistant. Appspec.yml for ECS, EC2, Lambda
+
+https://docs.aws.amazon.com/codedeploy/latest/userguide/application-revisions-appspec-file.html
+
+https://docs.aws.amazon.com/codebuild/latest/userguide/sample-docker.html
+1. https://docs.aws.amazon.com/codebuild/latest/userguide/sample-codedeploy.html
+2. https://docs.aws.amazon.com/codebuild/latest/userguide/sample-elastic-beanstalk.html
+
+AWS Centralized Logging
+https://github.com/aws-samples/arc325-multiple-accounts-workshop/blob/master/docs/centralized-logging.md#launch-the-centralized-logging-cloudformation-stack
+
+https://aws.amazon.com/solutions/implementations/centralized-logging/
+
+https://s3.amazonaws.com/solutions-reference/centralized-logging/latest/centralized-logging.pdf
+
+Download ElasticSearch: https://www.elastic.co/downloads/elas... 
+Download Logstash: https://www.elastic.co/downloads/logs... 
+Download Kibana: https://www.elastic.co/downloads/kibana 
+GitHub: https://github.com/Java-Techie-jt/elk... 
+Blogs: https://medium.com/@javatechie
+
+
+======================================
+
+Gitlab to elasticbeanstalk deployment
+
+https://gitlab.com/meixnertobias/funwitheb/-/tree/master/
+
+========================================
+Centralized Logging
+
+https://aws.amazon.com/solutions/implementations/centralized-logging/
+
+https://docs.aws.amazon.com/solutions/latest/centralized-logging/welcome.html
+
+=====================================
+
+https://solutions-reference.s3.amazonaws.com/centralized-logging/latest/aws-centralized-logging.template
+
+https://github.com/awslabs/aws-centralized-logging
+
+https://docs.aws.amazon.com/solutions/latest/centralized-logging/cost.html
+
+
+
+
+
 
 
