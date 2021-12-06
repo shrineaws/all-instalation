@@ -49,9 +49,11 @@ https://github.com/awslabs/aws-centralized-logging
 
 https://docs.aws.amazon.com/solutions/latest/centralized-logging/cost.html
 
+https://github.com/chgangaraju/terraform-aws-cloudfront-s3-website
 
+https://github.com/riboseinc/terraform-aws-s3-cloudfront-website
 
-
+https://medium.com/runatlantis/hosting-our-static-site-over-ssl-with-s3-acm-cloudfront-and-terraform-513b799aec0f
 
 
 
