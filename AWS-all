@@ -56,4 +56,4 @@ https://github.com/riboseinc/terraform-aws-s3-cloudfront-website
 https://medium.com/runatlantis/hosting-our-static-site-over-ssl-with-s3-acm-cloudfront-and-terraform-513b799aec0f
 
 
-
+https://github.com/aws-samples/amazon-cloudfront-secure-static-site. (cloudformation template for aws s3 static website and cloudfront and acm and route 53)
