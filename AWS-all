@@ -63,7 +63,7 @@ https://github.com/awslabs/aws-cloudformation-templates
 Building containers images for AWS Marketplace containers-based product with AWS CodePipeline
 https://aws.amazon.com/blogs/awsmarketplace/building-containers-images-for-aws-marketplace-containers-based-product-with-aws-codepipeline/?nc1=b_rp 
 https://marketplace-sa-resources.s3.amazonaws.com/AWSMP-container-build-pipeline-template.yml
-
+https://github.com/aws-quickstart/quickstart-amazon-eks/blob/main/templates/amazon-eks-load-balancer-controller.template.yaml
 https://github.com/weibeld/eks-cloudformation  (AWS EKS with Cloudformation)
 
 https://github.com/saha-rajdeep/cloudformation-demo/blob/master/rds-with-secrets.yaml (AWS RDS with Cloudformation)
