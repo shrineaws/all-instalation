@@ -65,7 +65,7 @@ https://aws.amazon.com/blogs/awsmarketplace/building-containers-images-for-aws-m
 https://marketplace-sa-resources.s3.amazonaws.com/AWSMP-container-build-pipeline-template.yml
 https://github.com/aws-quickstart/quickstart-amazon-eks/blob/main/templates/amazon-eks-load-balancer-controller.template.yaml
 https://github.com/weibeld/eks-cloudformation  (AWS EKS with Cloudformation)
-
+https://github.com/aws-samples/amazon-eks-refarch-cloudformation/tree/main/cloudformation. (LATEST AWS EKS)
 https://github.com/saha-rajdeep/cloudformation-demo/blob/master/rds-with-secrets.yaml (AWS RDS with Cloudformation)
 =============================================================================================
 Modernizing deployments with container images in AWS Lambda
