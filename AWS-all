@@ -64,6 +64,8 @@ Building containers images for AWS Marketplace containers-based product with AWS
 https://aws.amazon.com/blogs/awsmarketplace/building-containers-images-for-aws-marketplace-containers-based-product-with-aws-codepipeline/?nc1=b_rp 
 https://marketplace-sa-resources.s3.amazonaws.com/AWSMP-container-build-pipeline-template.yml
 
+https://github.com/weibeld/eks-cloudformation  (AWS EKS with Cloudformation)
+
 Modernizing deployments with container images in AWS Lambda
 https://aws.amazon.com/blogs/compute/modernizing-deployments-with-container-images-in-aws-lambda/?nc1=b_rp
 
