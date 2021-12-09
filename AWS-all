@@ -62,6 +62,7 @@ https://github.com/awslabs/aws-cloudformation-templates
 
 Building containers images for AWS Marketplace containers-based product with AWS CodePipeline
 https://aws.amazon.com/blogs/awsmarketplace/building-containers-images-for-aws-marketplace-containers-based-product-with-aws-codepipeline/?nc1=b_rp 
+https://marketplace-sa-resources.s3.amazonaws.com/AWSMP-container-build-pipeline-template.yml
 
 Modernizing deployments with container images in AWS Lambda
 https://aws.amazon.com/blogs/compute/modernizing-deployments-with-container-images-in-aws-lambda/?nc1=b_rp
