@@ -67,6 +67,9 @@ https://github.com/aws-quickstart/quickstart-amazon-eks/blob/main/templates/amaz
 https://github.com/weibeld/eks-cloudformation  (AWS EKS with Cloudformation)
 https://github.com/aws-samples/amazon-eks-refarch-cloudformation/tree/main/cloudformation. (LATEST AWS EKS)
 https://github.com/saha-rajdeep/cloudformation-demo/blob/master/rds-with-secrets.yaml (AWS RDS with Cloudformation)
+
+https://github.com/awslabs/aws-cloudformation-templates/tree/master/aws/solutions/CloudFrontCustomOriginLambda%40Edge. (AWS Rsources with Cloudformation)
+https://github.com/awslabs/aws-cloudformation-templates/tree/master/aws/services.   (AWS Rsources with Cloudformation)
 =============================================================================================
 Modernizing deployments with container images in AWS Lambda
 https://aws.amazon.com/blogs/compute/modernizing-deployments-with-container-images-in-aws-lambda/?nc1=b_rp
