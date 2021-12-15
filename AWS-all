@@ -76,4 +76,4 @@ https://aws.amazon.com/blogs/compute/modernizing-deployments-with-container-imag
 
 https://github.com/dyordsabuzo/pablosspot/tree/main/ep-07-setting-static-website/s3-static-website  (AWS & Terraform: Setting up Website using Cloudfront and S3 Bucket)
 
-
+https://github.com/widdix/aws-cf-templates/blob/master/state/elasticache-redis.yaml. (AWS Elasticcache Redis)
